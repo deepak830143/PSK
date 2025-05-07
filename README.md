@@ -62,6 +62,9 @@ Attach the program
 
 # Hardware experiment wave form:
 
+![psk image](https://github.com/user-attachments/assets/73221567-00a6-4f2f-9ba1-e0e4daa3e3a4)
+
+
 **Results**:Hence the modulation and demodulation of PSK is done using the python program.
 
 
